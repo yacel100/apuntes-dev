@@ -16,6 +16,7 @@ Repositorio de apuntes dev
 <a href="mailto:jose@yacelly.com">
   <img align="left" alt="Jose Yacelly | Mail" width="32px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a>
+<br><br>
 
 
 From [Jose Yacelly R.](https://github.com/yacel100)
