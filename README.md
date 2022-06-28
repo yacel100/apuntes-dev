@@ -2,6 +2,8 @@
 # apuntes-dev
 Repositorio de apuntes dev
 
+
+# Languages and Tools:  
 <a href="https://github.com/Neel2904">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yacel100&theme=dark&hide=glsl,python" />
 </a>
